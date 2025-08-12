@@ -1,0 +1,16 @@
+id,subject,body,category,confidence
+1,"Need help with my order","Hi, I placed an order last week but haven't received any confirmation. Can you help me track it down?","Support",0.95
+2,"Product pricing inquiry","I'm interested in your premium subscription plan. What are the current rates and what features are included?","Sales",0.92
+3,"Complaint about delivery service","I'm very disappointed with your delivery service. My package was supposed to arrive yesterday but it's still not here. This is unacceptable.","Complaints",0.98
+4,"Feedback on new feature","I just tried the new dashboard feature and it's amazing! Much more intuitive than before. Great work on the improvements.","Feedback",0.94
+5,"General question about services","I was wondering if you offer international shipping and what the typical delivery times are to Europe?","General",0.89
+6,"Technical support needed","I'm getting an error message when trying to log into my account. It says 'Invalid credentials' but I'm sure my password is correct.","Support",0.96
+7,"Bulk order quote request","We're looking to place a large order for our company. Can you provide a quote for 100 units with volume pricing?","Sales",0.93
+8,"Poor customer service experience","I called your support line yesterday and was on hold for 45 minutes. When someone finally answered, they were rude and unhelpful.","Complaints",0.97
+9,"Suggestion for improvement","I think it would be really helpful if you could add a dark mode option to your mobile app. Many users prefer it for night-time use.","Feedback",0.91
+10,"Business hours inquiry","What are your customer service hours? I need to speak with someone about my account but I'm only available in the evenings.","General",0.88
+11,"Account access issues","I can't seem to reset my password. The reset link in the email isn't working and I'm locked out of my account.","Support",0.95
+12,"Enterprise pricing information","We're evaluating your platform for our enterprise team. Can you send me information about enterprise licensing and custom features?","Sales",0.94
+13,"Damaged product received","The item I ordered arrived damaged. The packaging was torn and the product inside is broken. I need a replacement immediately.","Complaints",0.99
+14,"Appreciation for great service","I wanted to thank your team for the excellent service last week. Sarah from support went above and beyond to help me resolve my issue.","Feedback",0.96
+15,"Return policy question","I'm not satisfied with my recent purchase. What's your return policy and how do I go about returning an item?","General",0.87 

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "subject": "Need help with my order",
+    "body": "Hi, I placed an order last week but haven't received any confirmation. Can you help me track it down?",
+    "category": "Support",
+    "confidence": 0.95
+  },
+  {
+    "id": 2,
+    "subject": "Product pricing inquiry",
+    "body": "I'm interested in your premium subscription plan. What are the current rates and what features are included?",
+    "category": "Sales",
+    "confidence": 0.92
+  },
+  {
+    "id": 3,
+    "subject": "Complaint about delivery service",
+    "body": "I'm very disappointed with your delivery service. My package was supposed to arrive yesterday but it's still not here. This is unacceptable.",
+    "category": "Complaints",
+    "confidence": 0.98
+  },
+  {
+    "id": 4,
+    "subject": "Feedback on new feature",
+    "body": "I just tried the new dashboard feature and it's amazing! Much more intuitive than before. Great work on the improvements.",
+    "category": "Feedback",
+    "confidence": 0.94
+  },
+  {
+    "id": 5,
+    "subject": "General question about services",
+    "body": "I was wondering if you offer international shipping and what the typical delivery times are to Europe?",
+    "category": "General",
+    "confidence": 0.89
+  },
+  {
+    "id": 6,
+    "subject": "Technical support needed",
+    "body": "I'm getting an error message when trying to log into my account. It says 'Invalid credentials' but I'm sure my password is correct.",
+    "category": "Support",
+    "confidence": 0.96
+  },
+  {
+    "id": 7,
+    "subject": "Bulk order quote request",
+    "body": "We're looking to place a large order for our company. Can you provide a quote for 100 units with volume pricing?",
+    "category": "Sales",
+    "confidence": 0.93
+  },
+  {
+    "id": 8,
+    "subject": "Poor customer service experience",
+    "body": "I called your support line yesterday and was on hold for 45 minutes. When someone finally answered, they were rude and unhelpful.",
+    "category": "Complaints",
+    "confidence": 0.97
+  },
+  {
+    "id": 9,
+    "subject": "Suggestion for improvement",
+    "body": "I think it would be really helpful if you could add a dark mode option to your mobile app. Many users prefer it for night-time use.",
+    "category": "Feedback",
+    "confidence": 0.91
+  },
+  {
+    "id": 10,
+    "subject": "Business hours inquiry",
+    "body": "What are your customer service hours? I need to speak with someone about my account but I'm only available in the evenings.",
+    "category": "General",
+    "confidence": 0.88
+  },
+  {
+    "id": 11,
+    "subject": "Account access issues",
+    "body": "I can't seem to reset my password. The reset link in the email isn't working and I'm locked out of my account.",
+    "category": "Support",
+    "confidence": 0.95
+  },
+  {
+    "id": 12,
+    "subject": "Enterprise pricing information",
+    "body": "We're evaluating your platform for our enterprise team. Can you send me information about enterprise licensing and custom features?",
+    "category": "Sales",
+    "confidence": 0.94
+  },
+  {
+    "id": 13,
+    "subject": "Damaged product received",
+    "body": "The item I ordered arrived damaged. The packaging was torn and the product inside is broken. I need a replacement immediately.",
+    "category": "Complaints",
+    "confidence": 0.99
+  },
+  {
+    "id": 14,
+    "subject": "Appreciation for great service",
+    "body": "I wanted to thank your team for the excellent service last week. Sarah from support went above and beyond to help me resolve my issue.",
+    "category": "Feedback",
+    "confidence": 0.96
+  },
+  {
+    "id": 15,
+    "subject": "Return policy question",
+    "body": "I'm not satisfied with my recent purchase. What's your return policy and how do I go about returning an item?",
+    "category": "General",
+    "confidence": 0.87
+  }
+] 

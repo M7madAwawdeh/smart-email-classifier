@@ -1,0 +1,107 @@
+[
+  {
+    "id": 16,
+    "subject": "Software bug report",
+    "body": "I found a bug in your mobile app. When I try to upload a photo, the app crashes. This happens every time on my iPhone 12.",
+    "category": "Support",
+    "confidence": 0.94
+  },
+  {
+    "id": 17,
+    "subject": "Partnership opportunity",
+    "body": "I'm reaching out from TechCorp to discuss a potential partnership. We think there's great synergy between our products and would love to explore collaboration opportunities.",
+    "category": "Sales",
+    "confidence": 0.91
+  },
+  {
+    "id": 18,
+    "subject": "Billing dispute",
+    "body": "I was charged twice for the same service this month. I've already paid once and don't understand why I'm being charged again. Please fix this immediately.",
+    "category": "Complaints",
+    "confidence": 0.97
+  },
+  {
+    "id": 19,
+    "subject": "Feature request",
+    "body": "It would be great if you could add a calendar integration feature. Many of your competitors have this and it would make your platform much more useful for our team.",
+    "category": "Feedback",
+    "confidence": 0.93
+  },
+  {
+    "id": 20,
+    "subject": "API documentation request",
+    "body": "Do you have API documentation available? I'm a developer and would like to integrate your service with our internal tools.",
+    "category": "General",
+    "confidence": 0.86
+  },
+  {
+    "id": 21,
+    "subject": "Login problems",
+    "body": "I can't log into my account. The system keeps saying my email doesn't exist, but I've been using this account for months.",
+    "category": "Support",
+    "confidence": 0.95
+  },
+  {
+    "id": 22,
+    "subject": "Custom solution inquiry",
+    "body": "We have a unique use case that requires custom development. Can you provide a quote for building a specialized version of your platform?",
+    "category": "Sales",
+    "confidence": 0.92
+  },
+  {
+    "id": 23,
+    "subject": "Service outage complaint",
+    "body": "Your service was down for 3 hours yesterday during our busiest time. This cost us thousands in lost revenue. We need compensation.",
+    "category": "Complaints",
+    "confidence": 0.98
+  },
+  {
+    "id": 24,
+    "subject": "Positive feedback",
+    "body": "I've been using your service for 6 months now and I'm extremely satisfied. The customer support is responsive and the product quality is excellent.",
+    "category": "Feedback",
+    "confidence": 0.95
+  },
+  {
+    "id": 25,
+    "subject": "Data export question",
+    "body": "Is it possible to export my data in different formats? I need CSV and JSON exports for my reporting system.",
+    "category": "General",
+    "confidence": 0.87
+  },
+  {
+    "id": 26,
+    "subject": "Mobile app issues",
+    "body": "The mobile app is very slow on my Android device. It takes 10-15 seconds to load any page. This makes it unusable for me.",
+    "category": "Support",
+    "confidence": 0.93
+  },
+  {
+    "id": 27,
+    "subject": "Enterprise demo request",
+    "body": "We're evaluating enterprise solutions and would like to see a demo of your platform. Can someone from your sales team schedule a call?",
+    "category": "Sales",
+    "confidence": 0.94
+  },
+  {
+    "id": 28,
+    "subject": "Refund request",
+    "body": "I cancelled my subscription 2 weeks ago but you're still charging me. I want a refund for the unauthorized charges.",
+    "category": "Complaints",
+    "confidence": 0.96
+  },
+  {
+    "id": 29,
+    "subject": "Usability feedback",
+    "body": "The new interface is much better than the old one. The navigation is intuitive and the search function works perfectly now.",
+    "category": "Feedback",
+    "confidence": 0.94
+  },
+  {
+    "id": 30,
+    "subject": "Integration questions",
+    "body": "What third-party services do you integrate with? I'm specifically looking for Slack and Trello integration.",
+    "category": "General",
+    "confidence": 0.88
+  }
+] 
